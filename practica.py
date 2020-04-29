@@ -10,4 +10,4 @@ if x>10:
 	pass
 else:
 	print("el numero es menor que 10")
-
+#aqui solo provamos 
